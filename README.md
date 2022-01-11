@@ -1,2 +1,2 @@
-# shamlu-structure
-structure of the data / current and future state
+# shamlu-db
+fw copy of the idai.field 2 install 
